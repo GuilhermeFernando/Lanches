@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|e:\\asp.net mvc\\mvc_2022\\lanches\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|e:\\asp.net mvc\\mvc_2022\\lanches\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|e:\\asp.net mvc\\mvc_2022\\lanches\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|solutionrelative:models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|e:\\asp.net mvc\\mvc_2022\\lanches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD1598-4AAB-4742-9A83-711A4FAF38DC}|Lanches.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:18:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:04:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lanche.cs",
+              "DocumentMoniker": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Models\\Lanche.cs",
+              "RelativeDocumentMoniker": "Models\\Lanche.cs",
+              "ToolTip": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Models\\Lanche.cs",
+              "RelativeToolTip": "Models\\Lanche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:58:56.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "E:\\ASP.NET MVC\\MVC_2022\\Lanches\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:57:26.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
